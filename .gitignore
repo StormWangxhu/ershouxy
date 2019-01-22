@@ -18,6 +18,7 @@
 *.ipr
 *.yml
 *.cmd
+mvnw
 
 ### NetBeans ###
 /nbproject/private/
